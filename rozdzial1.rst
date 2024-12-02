@@ -5,13 +5,15 @@ Podstawowa obsługa edytora Nano
 Co to jest Nano?
 -----------------------
 
-Nano to prosty edytor tekstu działający w terminalu, popularny w systemach Linux
+Nano to prosty edytor tekstu działający w terminalu, popularny w systemach Linux.
 
 Uruchamianie Nano
 --------------------
 
 Aby otworzyć plik w nano, użyj polecenia:
-nano nazwa_pliku.txt
+nano nazwa_pliku.txt.
+Po otwarciu już można edytować tekst.
+
 
 Podstawowe skróty klawiszowe
 -----------------------------

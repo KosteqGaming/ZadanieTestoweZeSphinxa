@@ -13,6 +13,11 @@ vim nazwa_pliku.txt
 
 Podstawowe tryby
 ----------------------
-- **Tryb normalny** - Domyślny tryb w którym możesz poruszać sie po pliku i wydawać polecenia
+- **Tryb normalny** - Domyślny tryb w którym można poruszać sie po pliku i wydawać polecenia
+- **Tryb edycji** - Tryb w którym można edytować tekst. Uruchamia się po kliknięciu *i* lub *a* w trybie normalnym. Można z niego wyjść klikając *Esc*.
 
+Podsumowanie
+---------------------
+
+Vim z początku może się wydawać trudny, ale po nabyciu wprawy okazuje się, że jest potężnym narzędziem.
 
