@@ -15,10 +15,3 @@ Edytory tekstu w linuxie
    rozdzial2
    rozdzial3
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
