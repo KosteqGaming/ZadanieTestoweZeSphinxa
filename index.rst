@@ -3,13 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Testtt's documentation!
+Edytory tekstu w linuxie
 ==================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Spis treści:
-   
+
+   wstep
    rozdzial1
    rozdzial2
    rozdzial3
