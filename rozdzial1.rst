@@ -17,8 +17,12 @@ Po otwarciu już można edytować tekst.
 
 Podstawowe skróty klawiszowe
 -----------------------------
-- **`Ctrl + O`** - Zapisz plik.
-- **`Ctrl + X`** - Wyjdź z edytora.
+- **`Ctrl + O`** — zapisz plik.
+- **`Ctrl + X`** — wyjdź z edytora.
+- **`Ctrl + W`** — wyszukaj tekst.
+- **`Ctrl + K`** — wytnij tekst.
+- **`Ctrl + U`** — wklej tekst.
+- **`Ctrl + C`** — pokaż aktualną pozycję kursora.
 
 Podsumowanie
 ----------------
